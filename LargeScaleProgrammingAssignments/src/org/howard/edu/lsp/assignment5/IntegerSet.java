@@ -66,7 +66,7 @@ public class IntegerSet{
             throw new IntegerSetException();
         set.remove(item);
     }
- 
+    
     public void union(IntegerSet intSetb){
         for(int i=0;i<intSetb.length();i++){
             if(!set.contains(intSetb.set.get(i)))
