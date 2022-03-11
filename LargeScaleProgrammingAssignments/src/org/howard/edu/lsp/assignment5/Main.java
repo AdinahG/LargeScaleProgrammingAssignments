@@ -1,12 +1,17 @@
 package org.howard.edu.lsp.assignment5;
-
+/**
+ * 
+ * @author admin
+ *
+ */
 public class Main {
 
-    /**
-     * @param args the command line arguments
-     * @throws integersetapplication.IntegerSetException
-     */
-    public static void main(String[] args) throws IntegerSetException{
+	/**
+	 * 
+	 * @param args
+	 * @throws IntegerSetException
+	 */
+   public static void main(String[] args) throws IntegerSetException{
         IntegerSet set1 = new IntegerSet();
         set1.add(1);
         set1.add(2);
