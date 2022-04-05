@@ -1,9 +1,10 @@
-package org.howard.edu.lsp.assignment5;
+package org.howard.edu.lsp.assignment6;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
+import org.howard.edu.lsp.assignment5.IntegerSetException;
 import org.junit.Before;
 import org.junit.jupiter.api.Test;
 
