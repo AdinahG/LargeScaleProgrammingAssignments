@@ -1,5 +1,8 @@
 package org.howard.edu.lsp.finalexam;
 
+import java.util.HashMap;
+
+public class MapUtilities {
 public static int CommonKeyValuePairs {
 	 HashMap<String, String> map1,
      HashMap<String, String> map2
